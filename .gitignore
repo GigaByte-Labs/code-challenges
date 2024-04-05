@@ -1,0 +1,48 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+/.idea/sonarlint/issuestore/f/e/fee38f9dfcd656cfe98147dad401b6b7baba4058
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+/.idea/sonarlint/securityhotspotstore/f/e/fee38f9dfcd656cfe98147dad401b6b7baba4058
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
